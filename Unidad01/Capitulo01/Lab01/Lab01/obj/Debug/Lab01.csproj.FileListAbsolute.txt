@@ -1,0 +1,8 @@
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\NET\Unidad01\Capitulo01\Lab01\Lab01\obj\Debug\Lab01.pdb
