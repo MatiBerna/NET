@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\bin\Debug\net5.0\Biciestos.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\bin\Debug\net5.0\Biciestos.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\bin\Debug\net5.0\Biciestos.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\bin\Debug\net5.0\Biciestos.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\bin\Debug\net5.0\Biciestos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\bin\Debug\net5.0\Biciestos.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\refint\Biciestos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\Biciestos.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Biciestos\obj\Debug\net5.0\ref\Biciestos.dll
