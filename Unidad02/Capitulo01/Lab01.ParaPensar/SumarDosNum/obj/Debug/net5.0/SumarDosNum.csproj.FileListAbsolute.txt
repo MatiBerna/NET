@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\bin\Debug\net5.0\SumarDosNum.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\bin\Debug\net5.0\SumarDosNum.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\bin\Debug\net5.0\SumarDosNum.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\bin\Debug\net5.0\SumarDosNum.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\bin\Debug\net5.0\SumarDosNum.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\bin\Debug\net5.0\SumarDosNum.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\refint\SumarDosNum.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\SumarDosNum.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumarDosNum\obj\Debug\net5.0\ref\SumarDosNum.dll
