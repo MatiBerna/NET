@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\bin\Debug\net5.0\NumeroMes.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\bin\Debug\net5.0\NumeroMes.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\bin\Debug\net5.0\NumeroMes.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\bin\Debug\net5.0\NumeroMes.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\bin\Debug\net5.0\NumeroMes.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\bin\Debug\net5.0\NumeroMes.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\refint\NumeroMes.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\NumeroMes.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\NumeroMes\obj\Debug\net5.0\ref\NumeroMes.dll
