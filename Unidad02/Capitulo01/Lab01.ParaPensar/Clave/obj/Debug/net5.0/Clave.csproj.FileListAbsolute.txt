@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\bin\Debug\net5.0\Clave.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\bin\Debug\net5.0\Clave.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\bin\Debug\net5.0\Clave.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\bin\Debug\net5.0\Clave.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\bin\Debug\net5.0\Clave.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\bin\Debug\net5.0\Clave.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\refint\Clave.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\Clave.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Clave\obj\Debug\net5.0\ref\Clave.dll

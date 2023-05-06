@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\bin\Debug\net5.0\PrimosGemelos.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\bin\Debug\net5.0\PrimosGemelos.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\bin\Debug\net5.0\PrimosGemelos.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\bin\Debug\net5.0\PrimosGemelos.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\bin\Debug\net5.0\PrimosGemelos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\bin\Debug\net5.0\PrimosGemelos.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\refint\PrimosGemelos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\PrimosGemelos.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\PrimosGemelos\obj\Debug\net5.0\ref\PrimosGemelos.dll

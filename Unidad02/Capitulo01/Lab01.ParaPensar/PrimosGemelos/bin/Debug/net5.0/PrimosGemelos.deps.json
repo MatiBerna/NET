@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PrimosGemelos/1.0.0": {
+        "runtime": {
+          "PrimosGemelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimosGemelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

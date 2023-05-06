@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\bin\Debug\net5.0\SumaFibonacci.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\bin\Debug\net5.0\SumaFibonacci.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\bin\Debug\net5.0\SumaFibonacci.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\bin\Debug\net5.0\SumaFibonacci.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\bin\Debug\net5.0\SumaFibonacci.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\bin\Debug\net5.0\SumaFibonacci.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\refint\SumaFibonacci.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\SumaFibonacci.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\SumaFibonacci\obj\Debug\net5.0\ref\SumaFibonacci.dll

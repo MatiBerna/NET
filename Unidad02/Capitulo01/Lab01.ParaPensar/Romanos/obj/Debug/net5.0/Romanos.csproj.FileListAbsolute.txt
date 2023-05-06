@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\bin\Debug\net5.0\Romanos.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\bin\Debug\net5.0\Romanos.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\bin\Debug\net5.0\Romanos.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\bin\Debug\net5.0\Romanos.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\bin\Debug\net5.0\Romanos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\bin\Debug\net5.0\Romanos.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\refint\Romanos.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\Romanos.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\Romanos\obj\Debug\net5.0\ref\Romanos.dll
