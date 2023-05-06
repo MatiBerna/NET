@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\matib\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\matib\\.nuget\\packages"
+    ]
+  }
+}

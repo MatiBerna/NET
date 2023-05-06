@@ -1,0 +1,16 @@
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\bin\Debug\net5.0\ParesDe1a100.exe
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\bin\Debug\net5.0\ParesDe1a100.deps.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\bin\Debug\net5.0\ParesDe1a100.runtimeconfig.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\bin\Debug\net5.0\ParesDe1a100.runtimeconfig.dev.json
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\bin\Debug\net5.0\ParesDe1a100.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\bin\Debug\net5.0\ParesDe1a100.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\refint\ParesDe1a100.dll
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.pdb
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ParesDe1a100.genruntimeconfig.cache
+C:\NET\Unidad02\Capitulo01\Lab01.ParaPensar\ParesDe1a100\obj\Debug\net5.0\ref\ParesDe1a100.dll
