@@ -1,0 +1,11 @@
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\bin\Debug\net5.0\Clases.deps.json
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\bin\Debug\net5.0\Clases.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\bin\Debug\net5.0\ref\Clases.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\bin\Debug\net5.0\Clases.pdb
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\obj\Debug\net5.0\Clases.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\obj\Debug\net5.0\ref\Clases.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases2\Clases\obj\Debug\net5.0\Clases.pdb

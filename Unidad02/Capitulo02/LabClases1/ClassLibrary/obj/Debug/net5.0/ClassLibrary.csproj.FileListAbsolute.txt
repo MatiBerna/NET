@@ -1,0 +1,12 @@
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\net\BM2023\Unidad02\Capitulo02\LabClases1\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
