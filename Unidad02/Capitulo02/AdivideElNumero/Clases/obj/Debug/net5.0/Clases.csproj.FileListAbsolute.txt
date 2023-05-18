@@ -1,0 +1,12 @@
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\bin\Debug\net5.0\Clases.deps.json
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\bin\Debug\net5.0\Clases.dll
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\bin\Debug\net5.0\Clases.pdb
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\Clases.dll
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\refint\Clases.dll
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\Clases.pdb
+C:\NET\Unidad02\Capitulo02\AdivideElNumero\Clases\obj\Debug\net5.0\ref\Clases.dll
