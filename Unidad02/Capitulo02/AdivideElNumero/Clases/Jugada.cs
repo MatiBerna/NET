@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    internal class Jugada
+    public class Jugada
     {
         int _numero;
         private bool _adivino;
@@ -16,18 +16,7 @@ namespace Clases
         {
             Random rnd = new Random();
             Numero = rnd.Next(maxNumero);
-            Console.WriteLine("Numero aleatorio generado "+ Numero+
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                );
+            Console.WriteLine("Numero aleatorio generado");
 
             Adivino = false;
         }
@@ -58,7 +47,8 @@ namespace Clases
             }
             else
             {
-                Console.WriteLine("Numero incorrecto");
+                Console.Clear();
+                Console.WriteLine("NUMERO INCORRECTO");
                 Intentos++;
             }
             return Adivino;

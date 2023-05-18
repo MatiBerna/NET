@@ -6,10 +6,6 @@ namespace Clases
     {
         private int _record = 99999999;
 
-        public Juego()
-        {
-            _record = 0;
-        }
 
         public void ComenzarJuego()
         {
@@ -20,7 +16,7 @@ namespace Clases
             while (continua)
             {
                 bool adivino = false;
-                Jugada jugada = new Jugada(max);
+                JugadaConAyuda jugada = new JugadaConAyuda(max);
                 Console.WriteLine($"Record actual: {_record}");
 
                 while (!adivino)
@@ -51,6 +47,7 @@ namespace Clases
         {
             Console.WriteLine("Presione Escape para salir. Presione cualquier tecla para seguir jugando.");
             ConsoleKeyInfo key = Console.ReadKey();
+            Console.Clear();
 
             if(key.Key == ConsoleKey.Escape)
             {

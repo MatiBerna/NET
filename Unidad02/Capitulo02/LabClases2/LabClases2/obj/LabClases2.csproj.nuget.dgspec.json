@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj": {}
+    "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj": {}
   },
   "projects": {
-    "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj": {
+    "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
+        "projectUniqueName": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
         "projectName": "Clases",
-        "projectPath": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
-        "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-        "outputPath": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\obj\\",
+        "projectPath": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
+        "packagesPath": "C:\\Users\\matib\\.nuget\\packages\\",
+        "outputPath": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj": {
+    "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj",
+        "projectUniqueName": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj",
         "projectName": "LabClases2",
-        "projectPath": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj",
-        "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-        "outputPath": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\obj\\",
+        "projectPath": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\LabClases2.csproj",
+        "packagesPath": "C:\\Users\\matib\\.nuget\\packages\\",
+        "outputPath": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\LabClases2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +83,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj": {
-                "projectPath": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj"
+              "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj": {
+                "projectPath": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj"
               }
             }
           }
@@ -103,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -112,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

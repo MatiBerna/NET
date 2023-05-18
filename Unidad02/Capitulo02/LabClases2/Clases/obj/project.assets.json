@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ALUMNO\\.nuget\\packages\\": {}
+    "C:\\Users\\matib\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
+      "projectUniqueName": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
       "projectName": "Clases",
-      "projectPath": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
-      "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-      "outputPath": "C:\\net\\BM2023\\Unidad02\\Capitulo02\\LabClases2\\Clases\\obj\\",
+      "projectPath": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\Clases.csproj",
+      "packagesPath": "C:\\Users\\matib\\.nuget\\packages\\",
+      "outputPath": "C:\\NET\\Unidad02\\Capitulo02\\LabClases2\\Clases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
